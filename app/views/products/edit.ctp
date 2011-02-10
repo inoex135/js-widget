@@ -6,6 +6,7 @@
 		echo $this->Form->input('id');
 		echo $this->Form->input('product_name');
 		echo $this->Form->input('company_name');
+		echo $this->Form->input('url');
 		echo $this->Form->input('price');
 		echo $this->Form->input('description');
 	?>
