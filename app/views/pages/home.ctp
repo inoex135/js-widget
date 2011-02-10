@@ -18,3 +18,7 @@
     <li>Dump the sql database</li>
     <li>Change the app/config/database.php, set properly according to your setting.</li>
 </ul>
+<h3>Known Issue</h3>
+<ul>
+    <li>Sometimes, the ads is cached, so the when change the theme, the cache should be cleared first</li>
+</ul>
