@@ -36,5 +36,8 @@ class WidgetController extends AppController {
         echo json_encode($product['Product']);
         $this->render(false);
     }
+    function js(){
+        $this->layout = null;
+    }
 }
 ?>

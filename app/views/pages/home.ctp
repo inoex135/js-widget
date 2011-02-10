@@ -4,7 +4,7 @@
     To use widget at client, please copy paste script below:
     <pre>
     <xmp>
-        <script type='text/javascript' src='<?php echo $html->url('/js/widget.js',true)?>'></script>
+        <script type='text/javascript' src='<?php echo $html->url('/widget/js',true)?>'></script>
         <script type='text/javascript'>
             var theme = 'single';/*or thumb to change the theme*/
             load(theme);
